@@ -1,4 +1,4 @@
-# Olá, eu sou o [Gabriel Casagrande] 👋 (`@iambighouse`)
+# Olá, eu sou o Gabriel Casagrande 👋 (`@iambighouse`)
 
 Desenvolvedor focado em construir soluções eficientes, limpas e bem estruturadas. Este perfil foi organizado para que recrutadores e desenvolvedores naveguem facilmente pelos meus códigos.
 
