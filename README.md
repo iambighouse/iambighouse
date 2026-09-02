@@ -1,7 +1,6 @@
-# Olá, eu sou o Gabriel Casagrande 👋 (`@iambighouse`)
+# Olá, me chamo Gabriel Casagrande 👋 (`@iambighouse`)
 
-Desenvolvedor focado em construir soluções eficientes, limpas e bem estruturadas. Este perfil foi organizado para que recrutadores e desenvolvedores naveguem facilmente pelos meus códigos.
-
+Desenvolvedor Full-Stack com experiência no desenvolvimento de aplicações web de ponta a ponta, atuando em backend, frontend, integrações e automações. Trabalha com JavaScript/TypeScript e React.js no front-end e com PHP/Laravel e Node.js no back-end, utilizando PostgreSQL e ORMs (Prisma e Eloquent) na camada de dados, além de práticas de CI/CD com GitHub Actions e containerização com Docker. Profissional comprometido, organizado, comunicativo e em constante aprendizado. 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
@@ -26,12 +25,6 @@ Desenvolvedor focado em construir soluções eficientes, limpas e bem estruturad
 *Sistemas e ferramentas criados de forma independente para estudar novas tecnologias e resolver problemas.*
 
 * 💻 **[Projeto Moviestar](https://github.com/iambighouse/projeto_moviestar):** Projeto pessoal para entender melhor a linguagem PHP, sem frameworks, sem bibliotecas, somente a linguagem pura.
-
----
-
-## 📊 Estatísticas do GitHub
-
-[![Contador de Linhas e Commits](https://vercel.app)](https://github.com)
 
 ---
 
