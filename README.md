@@ -1,6 +1,7 @@
 # Olá, me chamo Gabriel Casagrande 👋 (`@iambighouse`)
 
 Desenvolvedor Full-Stack com experiência no desenvolvimento de aplicações web de ponta a ponta, atuando em backend, frontend, integrações e automações. Trabalha com JavaScript/TypeScript e React.js no front-end e com PHP/Laravel e Node.js no back-end, utilizando PostgreSQL e ORMs (Prisma e Eloquent) na camada de dados, além de práticas de CI/CD com GitHub Actions e containerização com Docker. Profissional comprometido, organizado, comunicativo e em constante aprendizado. 
+
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
