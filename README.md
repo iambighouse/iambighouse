@@ -31,12 +31,8 @@ Desenvolvedor focado em construir soluções eficientes, limpas e bem estruturad
 
 ## 📊 Estatísticas do GitHub
 
-<table>
-  <tr>
-    <td><img src="https://vercel.app" alt="Status" height="150"></td>
-    <td><img src="https://vercel.app" alt="Linguagens mais usadas por mim" height="150"></td>
-  </tr>
-</table>
+![Status do GitHub](https://vercel.app)
+![Linguagens mais usadas](https://vercel.app)
 
 ---
 
